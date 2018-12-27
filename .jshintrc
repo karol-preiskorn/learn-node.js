@@ -1,0 +1,8 @@
+{
+    "boss": true,
+    "node": true,
+    "esversion": 6,
+    "globals": {
+        "log": true
+    }
+}
